@@ -1,7 +1,5 @@
 #  ImagingIQ - AI-Powered Medical Diagnostics Platform
 
-![ImagingIQ Dashboard Preview](https://via.placeholder.com/1200x600/0F172A/22d3ee?text=ImagingIQ+Dashboard+Preview)
-
 > **"Bridging the gap between Artificial Intelligence and Clinical Workflow."**
 
 ImagingIQ is a high-fidelity, **Next.js 14** application designed to solve the "Black Box" problem in medical AI. It simulates a professional radiologist's workstation, featuring **Explainable AI (XAI)** visualizations, HIPAA-compliant workflow simulations, and an environment-aware interface designed to reduce physician burnout.
